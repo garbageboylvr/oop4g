@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @oop4g
-- 👀 I’m interested in animation and creating things!
-- 🌱 I’m currently learning art and physics.
-- 💞️ I’m looking to collaborate on anything you want bbg
+- 👋 Hi, I’m Frankie Johnson
+- 👀 I’m interested in wildlife conservation, cryptozoology, and podcasts
+- 🌱 I’m currently learning how to make my own website!
+- 💞️ I’m looking to collaborate with other creators and like-minded individuals :)
 - 📫 How to reach me email me
-- 😄 Pronouns: they/him
-- ⚡ Fun fact: I love bananas
+- 😄 Pronouns: he/they
+- ⚡ Fun fact: I'm a big sandwich lover
 
-<!---
-oop4g/oop4g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
